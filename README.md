@@ -124,7 +124,7 @@ https://ffmpeg.guide/
 处理完成自动提示
 
 技术架构
-前端：Tkinter + ttk 组件
+前端：PyQt5 + ttk 组件
 
 后端：FFmpeg 命令行调用 + 子进程管理
 
