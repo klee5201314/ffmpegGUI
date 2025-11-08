@@ -3,49 +3,62 @@ ffmpeg GUI一款基于 Python 与 Tkinter 开发的图形化 FFmpeg 媒体处理
 
 # 使用前请安装FFMPEG
 # 1. FFmpeg 官方网站
-
+```bash
 https://ffmpeg.org/download.html
-
+```
 # 2. Windows 预编译版本
 BtbN/FFmpeg-Builds (推荐)
-
+```bash
 https://github.com/BtbN/FFmpeg-Builds/releases
+```
 Gyan.dev (推荐)
-
+```bash
 https://www.gyan.dev/ffmpeg/builds/
+```
 Windows Essentials 版本
-
+```bash
 https://github.com/essential-overlay/ffmpeg-essentials/releases
-
+```
 # 3. macOS 版本
 Homebrew
-bash
+```bash
 brew install ffmpeg
-text
+```
+```text
 https://formulae.brew.sh/formula/ffmpeg
+```
 MacPorts
-bash
+```bash
 sudo port install ffmpeg
-#4. Linux 版本
+```
+# 4. Linux 版本
 各发行版包管理器
-bash
-Ubuntu/Debian
-sudo apt update && sudo apt install ffmpeg
 
+Ubuntu/Debian
+```bash
+sudo apt update && sudo apt install ffmpeg
+```
 CentOS/RHEL/Fedora
+```bash
 sudo dnf install ffmpeg
+```
 或
+```bash
 sudo yum install ffmpeg
 Arch Linux
 sudo pacman -S ffmpeg
+```
 静态编译版本
-text
+```text
 https://johnvansickle.com/ffmpeg/
+```
 
 # 📥 安装指南（Windows 用户）
 简易安装步骤：
-访问 https://github.com/BtbN/FFmpeg-Builds/releases
-
+访问 
+```txt
+https://github.com/BtbN/FFmpeg-Builds/releases
+```
 下载最新版本的 ffmpeg-master-latest-win64-gpl.zip
 
 解压到 C:\ffmpeg
@@ -55,18 +68,22 @@ https://johnvansickle.com/ffmpeg/
 重新打开命令提示符，输入 ffmpeg -version 验证
 
 验证安装：
-cmd
+```cmd
 ffmpeg -version
+```
 🔧 其他资源
 FFmpeg 文档
-text
+```text
 https://ffmpeg.org/documentation.html
+```
 FFmpeg Wiki
-text
+```text
 https://trac.ffmpeg.org/wiki
+```
 在线 FFmpeg 命令生成器
-text
+```text
 https://ffmpeg.guide/
+```
 
 
 
