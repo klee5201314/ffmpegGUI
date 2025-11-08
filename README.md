@@ -156,14 +156,8 @@ NCM 解密：集成 ncmdump 库与内置备用解密算法
 
 未来展望
 我将持续迭代，未来计划支持：
-
-批量文件处理
-
-更多音视频滤镜
-
-流媒体录制与转码
-
-插件化架构，支持用户自定义脚本
+<img width="604" height="565" alt="mm_facetoface_collect_qrcode_1762628279055" src="https://github.com/user-attachments/assets/9713ee05-7bdd-4270-8af9-7e4961cd8c6c" />
+![1762628378139](https://github.com/user-attachments/assets/f2a4329e-99c9-4c21-a8ac-9695e1c8a7cf)
 
 # 如果你正在寻找一个既强大又易用的本地音视频处理工具，不妨试试呢？
 
